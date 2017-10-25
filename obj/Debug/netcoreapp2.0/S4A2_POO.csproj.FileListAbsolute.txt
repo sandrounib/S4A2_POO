@@ -1,0 +1,10 @@
+c:\Users\08929532845\Desktop\S4A2_POO\bin\Debug\netcoreapp2.0\S4A2_POO.deps.json
+c:\Users\08929532845\Desktop\S4A2_POO\bin\Debug\netcoreapp2.0\S4A2_POO.runtimeconfig.json
+c:\Users\08929532845\Desktop\S4A2_POO\bin\Debug\netcoreapp2.0\S4A2_POO.runtimeconfig.dev.json
+c:\Users\08929532845\Desktop\S4A2_POO\bin\Debug\netcoreapp2.0\S4A2_POO.dll
+c:\Users\08929532845\Desktop\S4A2_POO\bin\Debug\netcoreapp2.0\S4A2_POO.pdb
+c:\Users\08929532845\Desktop\S4A2_POO\obj\Debug\netcoreapp2.0\S4A2_POO.csproj.CoreCompileInputs.cache
+c:\Users\08929532845\Desktop\S4A2_POO\obj\Debug\netcoreapp2.0\S4A2_POO.AssemblyInfoInputs.cache
+c:\Users\08929532845\Desktop\S4A2_POO\obj\Debug\netcoreapp2.0\S4A2_POO.AssemblyInfo.cs
+c:\Users\08929532845\Desktop\S4A2_POO\obj\Debug\netcoreapp2.0\S4A2_POO.dll
+c:\Users\08929532845\Desktop\S4A2_POO\obj\Debug\netcoreapp2.0\S4A2_POO.pdb
